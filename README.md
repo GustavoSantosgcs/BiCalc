@@ -56,4 +56,4 @@
 # **👨‍💻 Autor**
 
 - *Desenvolvido por Gustavo Santos.*
-- *Projeto educacional para fins de aprendizado com interfaces gráficas em Python da matéria de Principios de Programação.*
+- *Projeto educacional, da matéria de Princípios de Programação,para fins de aprendizado com interfaces gráficas em Python.*
